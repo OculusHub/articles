@@ -30,9 +30,11 @@ Key results from the paper:
 ## Accuracy: how the apps measured up
 
 **Remarks:** 
-* The study's Figure, "Mean (SD) Error of Apps That Work on Either iPhones, iPads, or Both", is the basis for this section. You can view it here: ![Figure: mean error in calculated visual acuity (JPG)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c0fe/7809609/e33f25af7732/jamaophthalmol-e206177-g001.jpg). 
+* The study's Figure, "Mean (SD) Error of Apps That Work on Either iPhones, iPads, or Both", is the basis for this section. You can view it here: 
 
-The full paper is on [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC7809609/) and the [JAMA Network abstract](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2774801).
+![Figure: mean error in calculated visual acuity (JPG)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c0fe/7809609/e33f25af7732/jamaophthalmol-e206177-g001.jpg)
+
+The full paper is on [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC7809609/) .
 
 What the verified numbers support:
 
